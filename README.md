@@ -7,11 +7,11 @@ A bilingual, browser-based fridge inventory and cooking diary. Built with plain 
 - Chinese / English interface, with saved language preference.
 - Editable fridge name, synchronized with the fridge illustration.
 - Fridge, freezer, and prep zones, each with its own Add button.
-- Drag cards between zones without confirmation; the entire quantity moves.
+- Drag cards between zones or use Move; choose a whole-number quantity and destination.
 - Edit quantities, units, purchase dates, and storage dates.
 - Food-name keyword matching for emoji icons (not AI photo recognition).
 - Upload, preview, enlarge, replace, and remove food photos.
-- Cook from the prep area: deduct actual quantities and save a meal photo.
+- Cook from the prep area: select ingredients for one dish, enter whole-number quantities and a dish name, and optionally add a photo. Unselected and remaining food stays in Prep for the next dish.
 - Cooking diary with date tabs and add/edit/delete entries.
 - Custom reminder rules and calendar (.ics) export.
 - In-page confirmation dialogs and JSON backup / restore.
